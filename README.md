@@ -10,7 +10,7 @@ $ pip install requests
 Now run by
 
 ```
-$ python main.py "YOUR_QUERY_IN DOBULE_QUOTES"
+# python main.py "YOUR_QUERY_IN DOBULE_QUOTES"
 
 $ python main.py "kal ho na ho"
 ```
